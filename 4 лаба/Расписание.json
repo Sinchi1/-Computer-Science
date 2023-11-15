@@ -1,0 +1,17 @@
+{
+    "Day": "Saturday",
+    "Schedule": {
+    "FirstLesson": {
+    "Subject": "History",
+    "Time": "9:00-12:30",
+    "Teacher": "Shimenko A.V",
+    "Auditory": "Auditory 4133 (Lemon classroom)"
+    },
+    "SecondLesson": {
+    "Subject": "History",
+    "Time": "9:00-11:30",
+    "Teacher": "Shimenko A.V",
+    "Auditory": "Auditory 4133 (Lemon classroom)"
+    }
+    }
+  }

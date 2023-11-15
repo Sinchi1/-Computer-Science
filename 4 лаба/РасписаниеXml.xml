@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Body>
+    <Day>Saturday</Day>
+    <Schedule>
+    <FirstLesson>
+    <Subject>History</Subject>
+    <Time>9:00-11:30</Time>
+    <Teacher>Жмышенко А.В</Teacher>
+    <Auditory>Ауд.4133(Lemon classroom)</Auditory>
+    </FirstLesson>
+    <SecondLesson>
+    <Subject>History</Subject>
+    <Time>9:00-11:30</Time>
+    <Teacher>Жмышенко А.В</Teacher>
+    <Auditory>Ауд.4133(Lemon classroom)</Auditory>
+    </SecondLesson>
+    </Schedule>
+</Body>
